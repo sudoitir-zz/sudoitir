@@ -1,5 +1,5 @@
-Hey there! I’m Mahdi, a software developer.
-I’m interested in building web apps, GNU/Linux, and teaching / tutoring (both coding and non-coding things!). Good team player and a self-learner. Very interested in seeing and experiencing new environments and technologies .
+Hey there! I’m Mahdi, a backend developer.
+I’m interested in seeing and experiencing new environments and technologies, building web apps, GNU/Linux, and teaching / tutoring (both coding and non-coding things!). Good team player and a self-learner.
 
 You can reach me on the https://link.sudoit.ir/
 <!---
