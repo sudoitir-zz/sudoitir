@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [**link.sudoit.ir**](https://link.sudoit.ir/)
 
-- 📝 I regularly write articles on [**sudoit.ir**](https://sudoit.ir/)
-
-- 💬 Ask me about **Java and Spring Boot**
+- 📝 I Irregularly write articles on [**sudoit.ir**](https://sudoit.ir/)
 
 - 📫 How to reach me [**e-mail**](mailto:sudoit.ir@gmail.com) or [**Telegram**](https://t.me/sudoit_ir)
 
