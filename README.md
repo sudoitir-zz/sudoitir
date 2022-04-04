@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning [**Spring**](https://spring.io/)
 
-- 👨‍💻 All of my projects are available at [link.sudoit.ir](https://link.sudoit.ir/)
+- 👨‍💻 All of my projects are available at [**link.sudoit.ir**](https://link.sudoit.ir/)
 
-- 📝 I regularly write articles on [sudoit.ir](https://sudoit.ir/)
+- 📝 I regularly write articles on [**sudoit.ir**](https://sudoit.ir/)
 
 - 💬 Ask me about **Java and Spring Boot**
 
-- 📫 How to reach me [**e-mail**](mailto:sudoit.ir@gmail.com) or [Telegram](https://t.me/sudoit_ir)
+- 📫 How to reach me [**e-mail**](mailto:sudoit.ir@gmail.com) or [**Telegram**](https://t.me/sudoit_ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
