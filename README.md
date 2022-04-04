@@ -5,17 +5,17 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudoitir" alt="sudoitir" /></a> </p> -->
 
-- 🌱 I’m currently learning **Spring Framework**
+- 👨‍💻 I’m currently working hard :-)
 
-- 👨‍💻 All of my projects are available at [https://link.sudoit.ir/](https://link.sudoit.ir/)
+- 🌱 I’m currently learning [**Spring**](https://spring.io/)
 
-- 📝 I regularly write articles on [https://sudoit.ir/](https://sudoit.ir/)
+- 👨‍💻 All of my projects are available at [link.sudoit.ir](https://link.sudoit.ir/)
+
+- 📝 I regularly write articles on [sudoit.ir](https://sudoit.ir/)
 
 - 💬 Ask me about **Java and Spring Boot**
 
-- 📫 How to reach me **sudoit.ir@gmail.com**
-
-- 📄 Know about my experiences [https://link.sudoit.ir/cv/](https://link.sudoit.ir/cv/)
+- 📫 How to reach me [**e-mail**](mailto:sudoit.ir@gmail.com) or [Telegram](https://t.me/sudoit_ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
